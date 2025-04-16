@@ -70,9 +70,7 @@ Once you've added your course to the cart, proceed to checkout. There, you'll fi
 After applying the code, make sure the discount is reflected in the total price. Double-check the coupon's terms and conditions to ensure that it applies to the course you selected.
 
 ### 4. **Complete the Payment**
-<p align="center">
-![image](https://github.com/user-attachments/assets/a0ce6568-7f81-4e1f-8b6b-9f24892e3607)
-</p>
+![image](https://github.com/user-attachments/assets/3e560174-a67c-47c1-a231-2ab5caef0ea9)
 
 Once the discount has been applied, you can proceed with your payment. CFI accepts various payment methods, including credit cards and PayPal, making the checkout process smooth and straightforward.
 
