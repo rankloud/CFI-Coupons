@@ -61,6 +61,8 @@ CFI also has a referral program. If you refer a friend or colleague to CFI, you 
 Once you've found a **CFI coupon**, you’ll want to know how to use it to maximize your savings. Here's a simple step-by-step guide:
 
 ### 1. **Choose Your Course**
+![image](https://github.com/user-attachments/assets/2f84ca4c-8b63-40d6-914a-9b8cdf5b48cb)
+
 Start by selecting the course or certification you want to purchase from the CFI website. Make sure to check the course description, syllabus, and any prerequisites before making your decision.
 
 ### 2. **Apply the Coupon Code**
