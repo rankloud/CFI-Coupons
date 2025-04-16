@@ -12,6 +12,12 @@ Take advantage of this **limited-time offer** and save **30%** on **CFI courses*
 - **Certification**: FMVA™ and other career-boosting programs
 - **Save Big**: Enjoy a **30% discount** on all courses and certification programs
 
+## CFI Self-Study & Full Immersion Membership Up To 40% Off
+
+Unlock your career potential with **CFI Self-Study & Full Immersion Memberships** at **up to 40% off**! Whether you're looking to enhance your skills in financial modeling, valuation, or other essential finance topics, CFI's comprehensive courses can help you reach your goals.
+
+### **Use Code: M40** at checkout for up to **40% OFF**.
+
 ## What Are CFI Coupons?
 
 CFI coupons are promotional codes or discounts offered by the Corporate Finance Institute to help users save money on their courses. Whether it's for a specific course or a bundle of courses, these coupons can provide anywhere from a small discount to a significant reduction in price.
@@ -30,12 +36,12 @@ There are several types of **CFI coupons** you might come across:
 
 4. **Bundle Discounts**: CFI often bundles courses together, and a coupon may apply to these bundles, giving you a discount on multiple courses purchased at once.
 
-## How to Find CFI Coupons
+## How to Find CFI Coupons?
 
 Finding **CFI coupons** is relatively easy if you know where to look. Here are some reliable methods to help you snag a discount:
 
 ### 1. **CFI’s Official Website**
-CFI occasionally offers discounts directly on their official website. They might have limited-time offers or seasonal promotions, such as a New Year’s sale or Black Friday discount. Always check the homepage or the promotions section for any available **CFI coupons**.
+CFI occasionally offers discounts directly on its official website. They might have limited-time offers or seasonal promotions, such as a New Year’s sale or Black Friday discount. Always check the homepage or the promotions section for any available **CFI coupons**.
 
 ### 2. **Email Newsletters**
 Signing up for the CFI newsletter is a great way to stay updated on new courses and special promotions. By subscribing, you may receive exclusive **CFI coupons** and discount codes that aren't available to the general public.
@@ -44,7 +50,7 @@ Signing up for the CFI newsletter is a great way to stay updated on new courses 
 There are various coupon websites, like **RetailMeNot**, **CouponBirds**, and **Groupon**, where you can find **CFI coupon codes**. These sites aggregate promotional offers from a wide range of brands, including CFI.
 
 ### 4. **Social Media**
-CFI often runs promotions through their social media channels. By following CFI on **LinkedIn**, **Facebook**, and **Twitter**, you can stay informed about special offers, flash sales, and exclusive discounts.
+CFI often runs promotions through its social media channels. By following CFI on **LinkedIn**, **Facebook**, and **Twitter**, you can stay informed about special offers, flash sales, and exclusive discounts.
 
 ### 5. **Referral Programs**
 CFI also has a referral program. If you refer a friend or colleague to CFI, you may receive a discount on your next course purchase. It's a win-win situation!
@@ -63,7 +69,9 @@ Once you've added your course to the cart, proceed to checkout. There, you'll fi
 After applying the code, make sure the discount is reflected in the total price. Double-check the coupon's terms and conditions to ensure that it applies to the course you selected.
 
 ### 4. **Complete the Payment**
+<p align="center">
 ![image](https://github.com/user-attachments/assets/a0ce6568-7f81-4e1f-8b6b-9f24892e3607)
+</p>
 
 Once the discount has been applied, you can proceed with your payment. CFI accepts various payment methods, including credit cards and PayPal, making the checkout process smooth and straightforward.
 
