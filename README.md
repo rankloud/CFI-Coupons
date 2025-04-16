@@ -76,7 +76,7 @@ After applying the code, make sure the discount is reflected in the total price.
 
 Once the discount has been applied, you can proceed with your payment. CFI accepts various payment methods, including credit cards and PayPal, making the checkout process smooth and straightforward.
 
-## Benefits of Using CFI Coupons
+## Benefits of Using CFI Coupons✅
 
 Using **CFI coupons** comes with several advantages. Here's why you should always look for a discount before making a purchase:
 
