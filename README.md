@@ -6,8 +6,6 @@ When it comes to online education, CFI (Corporate Finance Institute) is one of t
 
 In this blog post, we’ll explore what CFI coupons are, how to find and use them, and answer some frequently asked questions (FAQs) to help you get the most out of your learning experience. Let's dive into the world of CFI coupons!
 
-
-
 ## What Are CFI Coupons?
 
 CFI coupons are promotional codes or discounts offered by the Corporate Finance Institute to help users save money on their courses. Whether it's for a specific course or a bundle of courses, these coupons can provide anywhere from a small discount to a significant reduction in price.
