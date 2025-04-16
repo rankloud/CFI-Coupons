@@ -6,7 +6,11 @@ In this blog post, we’ll explore what CFI coupons are, how to find and use the
 
 ## Save 30% on CFI's Industry-Leading Finance Training
 
-Take advantage of this **limited-time offer** and save **30%** on **CFI courses**. Whether you're looking to enhance your financial modeling skills, dive into valuation, or start with Excel for finance, now is the best time to enroll.
+Take advantage of this **limited-time offer** and save **30%** on **CFI courses**. If you're looking to enhance your financial modeling skills, dive into valuation, or start with Excel for finance, now is the best time to enroll.
+
+- **Courses**: Financial Modeling, Valuation, Excel for Finance, and more
+- **Certification**: FMVA™ and other career-boosting programs
+- **Save Big**: Enjoy a **30% discount** on all courses and certification programs
 
 ## What Are CFI Coupons?
 
@@ -59,6 +63,8 @@ Once you've added your course to the cart, proceed to checkout. There, you'll fi
 After applying the code, make sure the discount is reflected in the total price. Double-check the coupon's terms and conditions to ensure that it applies to the course you selected.
 
 ### 4. **Complete the Payment**
+![image](https://github.com/user-attachments/assets/a0ce6568-7f81-4e1f-8b6b-9f24892e3607)
+
 Once the discount has been applied, you can proceed with your payment. CFI accepts various payment methods, including credit cards and PayPal, making the checkout process smooth and straightforward.
 
 ## Benefits of Using CFI Coupons
